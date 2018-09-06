@@ -4,6 +4,4 @@
 
 效果图
 
-![image](https://github.com/wangjiand/AutoLayoutView-master/blob/master/image/gifs.gif)
-
-![image](https://github.com/wangjiand/AutoLayoutView-master/blob/master/image/0180810171349.jpg)
+![image](https://github.com/wangjiand/ContentEvaluate-master/blob/master/image/evaluate.jpg)
